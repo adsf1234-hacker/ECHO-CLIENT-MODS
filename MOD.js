@@ -131,35 +131,35 @@ const RubyMod = {
     },
 
     getRubyTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby.png";
     },
     
     getRubyPickaxeTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_pickaxe.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_pickaxe.png";
     },
     
     getRubyAxeTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_axe.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_axe.png";
     },
     
     getRubySwordTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_sword.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_sword.png";
     },
     
     getRubyHelmetTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_helmet.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_helmet.png";
     },
     
     getRubyChestplateTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_chestplate.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_chestplate.png";
     },
     
     getRubyLeggingsTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_leggings.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_leggings.png";
     },
     
     getRubyBootsTexture: function() {
-        return "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/ruby_boots.png";
+        return "https://raw.githubusercontent.com/adsf1234-hacker/ECHO-CLIENT-MODS/main/ruby_boots.png";
     },
 };
 
